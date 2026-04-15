@@ -1,0 +1,14 @@
+# Ignore folders
+data/
+coralenv/
+notneeded/
+old/
+tested/
+
+# Ignore large files
+*.zip
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
